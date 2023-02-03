@@ -7,7 +7,6 @@ int main ()
   //    *
   //   **
   //  ***
-  // **** 
   
   int n;
   cout << "Enter the value till which the pattern has to be printed:" << endl;
