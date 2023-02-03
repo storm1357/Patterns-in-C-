@@ -3,6 +3,12 @@ using namespace std;
 
 int main ()
 {
+  //---Pattern 3---
+  //    *
+  //   **
+  //  ***
+  // **** 
+  
   int n;
   cout << "Enter the value till which the pattern has to be printed:" << endl;
   cin >> n;
